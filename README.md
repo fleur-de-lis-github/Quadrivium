@@ -7,15 +7,20 @@ Over 500 tech startups have laid off more than 69,000 employees between March an
 Nearly half of the global workforce is at risk of losing their jobs, the investment firm said. Thousands of companies worldwide have been forced to reduce costs and cut the number of workplaces, and startups are no exception, the firm noted. Suffering the biggest losses are startups in transportation, finance, and travel, which have cut 31,000 jobs in four months, BuyShares said. Retail is close behind, with 7,600 job cuts.
 
 ## Our Approach
+```diff
++ Our empirical study used financial data from a sample of startup companies, analyzing their evolution . We found healthier financial
++ indicators in the first years of startup companies that survived eight years than in those that failed, supporting the organizational
++ ecology theory. We found statistically significant differences in profitability, productivity, liquidity, leverage, and size. The models
++ developed showed predictive capacity essential to make decisions going forward.
 
-Our empirical study used financial data from a sample of startup companies, analyzing their evolution . We found healthier financial indicators in the first years of startup companies that survived eight years than in those that failed, supporting the organizational ecology theory. We found statistically significant differences in profitability, productivity, liquidity, leverage, and size. The models developed showed predictive capacity essential to make decisions going forward.
+- Employee Attrition are a reality for any business. However, if the situation isn't handled properly, key staff members' departures can lead 
+- to a downturn in productivity. The organization may have to employ new people and train them on the tool that is being used, which is time consuming.
+- Most organizations are interested in knowing which of their employees are at the risk of leaving. They predict their overall profit and use it as a
+-major metric. A meta-analytic review of  attrition  found that the strongest predictors of involuntary attrition included age, pay, and project performance.
 
-Employee Attrition are a reality for any business. However, if the situation isn't handled properly, key staff members' departures can lead to a downturn in productivity. The
-organization may have to employ new people and train them on the tool that is being used, which is time consuming. Most organizations are interested in knowing which of their
-employees are at the risk of leaving. They predict their overall profit and use it as a major metric. A meta-analytic review of  attrition  found that the strongest predictors of involuntary attrition included age, pay, and project performance.
-
-This paper discusses the application of the Ada Boost Classifier and  Logistic Regression algorithm as a method of predicting employee attrition. This is done by using data from Kaggle and
-treating the problem as a classification task. The conclusion is reached by comparing the performance of the Ada Boost classifier against other techniques.
+! This paper discusses the application of the Ada Boost Classifier and  Logistic Regression algorithm as a method of predicting employee attrition.
+! This is done by using data from Kaggle and treating the problem as a classification task. The conclusion is reached by comparing the performance
+! of the Ada Boost classifier against other techniques.
 
 ## Industry Potential
 
