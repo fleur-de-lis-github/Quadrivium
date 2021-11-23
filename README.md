@@ -21,6 +21,7 @@ Nearly half of the global workforce is at risk of losing their jobs, the investm
 ! This paper discusses the application of the Ada Boost Classifier and  Logistic Regression algorithm as a method of predicting employee attrition.
 ! This is done by using data from Kaggle and treating the problem as a classification task. The conclusion is reached by comparing the performance
 ! of the Ada Boost classifier against other techniques.
+```
 
 ## Industry Potential
 
