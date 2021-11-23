@@ -19,7 +19,7 @@ treating the problem as a classification task. The conclusion is reached by comp
 
 ## Industry Potential
 
-![Alt Text](https://i.gifer.com/4BI.gif)
+![Alt Text](https://genhq.com/wp-content/uploads/2018/05/Interaction.gif)
 
 Businesses now operate in a digital ecosystem generating a massive amount of data. And making sense of this information is key to ensure the success of your business.
 
